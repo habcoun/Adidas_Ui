@@ -1,6 +1,8 @@
 # Aidas_ui
 
-A Flutter project | Cataloge for shoees Adidas
+App For Adidas Shoses Cataloge ( Just for learn )
+
+![alt tag](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/f66793125761307.611f8e5c799ee.jpg)
 
 ## Getting Started
 
