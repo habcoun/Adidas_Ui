@@ -1,6 +1,6 @@
-# adidas_ui
+# Aidas_ui
 
-A new Flutter project.
+A Flutter project | Cataloge for shoees Adidas
 
 ## Getting Started
 
